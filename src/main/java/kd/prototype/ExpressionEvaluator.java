@@ -1,4 +1,4 @@
-package kd.prtotype;
+package kd.prototype;
 
 import java.util.*;
 import java.util.regex.Matcher;
